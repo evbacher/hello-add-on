@@ -1,6 +1,3 @@
-hello-world
-===========
+# hello add-on
 
-First git repo.
-
-This is a test.
+Basic Google Docs add-on.
