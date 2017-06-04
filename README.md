@@ -2,6 +2,8 @@
 
 Basic Google Docs add-on.
 
+<a href=test>test link</a>
+
 Some Markdown testing:
 
 Pure Markdown list:
@@ -37,3 +39,4 @@ A hybrid list, with some HTML in the Markdown blocks:
 1.  fifth item
 1.  sixth item
 
+<p id=test>This is a paragraph with the ID "test" that we've linked to.</p>
